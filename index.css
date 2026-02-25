@@ -1,0 +1,16 @@
+.table{
+    border:solid green;
+}
+
+.division{
+    margin:20px 0px 0px 500px;
+}
+
+.caption{
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.t-row{
+    border-style:solid;
+}
